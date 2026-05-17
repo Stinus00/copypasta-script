@@ -9,7 +9,7 @@ import tkinter as tk
 # This script randomly selects a line from a text file containing copypastas
 # and copies it to the clipboard when Ctrl+A is pressed.
 
-__location__ = os.path.abspath("C:/Users/Stijn/Documents/Python Script/copypastas/copypastas.txt")
+__location__ = os.path.abspath("../../copypastas.txt")
 
 line_count = 0
 x = "stopScript"
